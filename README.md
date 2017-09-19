@@ -96,3 +96,5 @@ npm test
 
 ### License
 [MIT](./LICENSE)
+
+**[Online JSON Formatter](https://toolslick.com/formatter/json)**
