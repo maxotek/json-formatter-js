@@ -8,7 +8,7 @@ JSON Formatter started as an [AngularJS directive](https://github.com/mohsen1/js
 
 **[Live Demo](http://azimi.me/json-formatter-js/)**
 
-**[Online JSON Formatter](https://toolslick.com/formatter/json)**
+**[Online JSON Formatter](https://toolslick.com/json-formatter)**
 
 ### Usage
 
